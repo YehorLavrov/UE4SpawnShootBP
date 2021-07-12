@@ -14,5 +14,5 @@ Each wave must have at least 10 targets within 1500 radius from spawn location.
 optional:
 1. make all parameters editable.
 2. add effect on target destroy.
-3. make target size smaller with each wave with reduction step and minimum value set.
+3. with each wave make target size smaller with reduction step and minimum value set.
 4. make UI with hits score and number of wave.
